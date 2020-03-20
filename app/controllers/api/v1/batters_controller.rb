@@ -1,6 +1,7 @@
 class Api::V1::BattersController < ApplicationController
 
     def index
+        
         @batters = Batter.all
         render json: @batters
     end
@@ -11,8 +12,7 @@ class Api::V1::BattersController < ApplicationController
     end
 
     def create
-        user = User.first
-        @batter = user.batters.new(batter_params)
+        @batter = batters.new(batter_params)
         if @batter.save
             render json: @batter
         else
