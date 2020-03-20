@@ -1,0 +1,495 @@
+first_name,last_name,full_name,year_id,set_id,card_number,team,control,put_out,strikeout,groundball,flyball,base_on_balls,single,double,homerun,points,innings_pitched,hand,position
+Tim,Belcher,Tim Belcher,2000,BS,2,Angels,0,3,2,7,6,0,1,1,0,110,6,R,Starter
+Chuck,Finley,Chuck Finley,2000,BS,5,Angels,5,2,5,5,3,2,2,1,0,470,6,L,Starter
+Troy,Percival,Troy Percival,2000,BS,10,Angels,3,2,6,3,7,1,0,1,0,180,1,R,Closer
+Mark,Petkovsek,Mark Petkovsek,2000,BS,11,Angels,3,3,3,7,4,0,2,1,0,130,1,R,Reliever
+Steve,Sparks,Steve Sparks,2000,BS,13,Angels,0,4,3,5,6,1,1,0,0,150,6,R,Starter
+Andy,Benes,Andy Benes,2000,BS,17,Diamondbacks,4,2,4,5,4,2,2,1,0,350,6,R,Starter
+Omar,Daal,Omar Daal,2000,BS,18,Diamondbacks,5,2,4,5,4,2,2,1,0,510,7,R,Starter
+Randy,Johnson,Randy Johnson,2000,BS,24,Diamondbacks,3,2,10,3,3,1,1,0,0,630,8,L,Starter
+Matt,Mantei,Matt Mantei,2000,BS,26,Diamondbacks,3,1,10,2,3,4,0,0,0,150,1,R,Closer
+Dan,Plesac,Dan Plesac,2000,BS,27,Diamondbacks,4,2,7,2,4,1,3,1,0,90,1,L,Reliever
+Greg,Swindell,Greg Swindell,2000,BS,29,Diamondbacks,3,2,5,4,6,1,2,0,0,140,1,L,Reliever
+Tom,Glavine,Tom Glavine,2000,BS,33,Braves,4,3,3,6,3,1,4,0,0,450,7,L,Starter
+Greg,Maddux,Greg Maddux,2000,BS,41,Braves,5,3,4,6,2,0,4,1,0,480,7,R,Starter
+Kevin,Millwood,Kevin Millwood,2000,BS,42,Braves,3,3,6,4,5,0,1,1,0,550,7,R,Starter
+Mike,Remlinger,Mike Remlinger,2000,BS,44,Braves,6,2,6,4,3,2,3,0,0,170,1,L,Reliever
+John,Rocker,John Rocker,2000,BS,45,Braves,5,2,9,2,3,2,2,0,0,200,1,L,Closer
+John,Smoltz,John Smoltz,2000,BS,46,Braves,6,2,5,5,3,1,3,1,0,550,6,R,Starter
+Scott,Erickson,Scott Erickson,2000,BS,55,Orioles,4,2,2,8,3,1,3,1,0,400,7,R,Starter
+Mike,Mussina,Mike Mussina,2000,BS,57,Orioles,3,2,5,6,4,0,2,1,0,470,7,R,Starter
+Jesse,Orosco,Jesse Orosco,2000,BS,58,Orioles,3,1,6,5,4,2,1,1,0,110,1,L,Reliever
+Sidney,Ponson,Sidney Ponson,2000,BS,59,Orioles,3,3,3,5,5,1,2,1,0,370,7,R,Starter
+Mike,Timlin,Mike Timlin,2000,BS,63,Orioles,6,2,4,6,3,2,2,1,0,190,1,R,Closer
+Rod,Beck,Rod Beck,2000,BS,64,Red Sox,3,3,3,5,5,0,2,2,0,80,1,R,Reliever
+Rheal,Cormier,Rheal Cormier,2000,BS,66,Red Sox,6,3,3,6,3,1,3,1,0,150,1,L,Reliever
+Derek,Lowe,Derek Lowe,2000,BS,70,Red Sox,6,3,4,7,2,1,2,1,0,180,1,R,Reliever
+Pedro,Martinez,Pedro Martinez,2000,BS,71,Red Sox,5,2,9,3,3,0,2,1,0,660,7,R,Starter
+Mark,Portugal,Mark Portugal,2000,BS,75,Red Sox,3,2,3,6,5,0,2,1,1,120,5,R,Starter
+Pat,Rapp,Pat Rapp,2000,BS,76,Red Sox,4,2,3,7,3,2,3,0,0,370,5,R,Starter
+Tim,Wakefield,Tim Wakefield,2000,BS,80,Red Sox,4,2,4,4,5,2,2,1,0,220,2,R,Reliever
+Rick,Aguilera,Rick Aguilera,2000,BS,81,Cubs,3,2,5,5,6,0,1,1,0,170,1,R,Closer
+Kyle,Farnsworth,Kyle Farnsworth,2000,BS,83,Cubs,4,3,3,4,5,1,2,1,1,170,6,R,Starter
+Jon,Lieber,Jon Lieber,2000,BS,87,Cubs,5,2,6,4,3,0,4,1,0,420,6,R,Starter
+Scott,Sanders,Scott Sanders,2000,BS,92,Cubs,0,2,6,5,5,1,1,0,0,70,1,R,Reliever
+Steve,Trachsel,Steve Trachsel,2000,BS,95,Cubs,3,2,5,5,4,1,2,1,0,330,6,R,Starter
+James,Baldwin,James Baldwin,2000,BS,96,White Sox,3,3,3,5,5,1,2,1,0,330,6,R,Starter
+Bob,Howry,Bob Howry,2000,BS,100,White Sox,5,2,6,3,4,3,2,0,0,180,1,R,Closer
+Jim,Parque,Jim Parque,2000,BS,105,White Sox,0,3,4,6,5,1,1,0,0,160,6,L,Starter
+Bill,Simas,Bill Simas,2000,BS,106,White Sox,3,3,3,5,5,1,2,1,0,100,1,R,Reliever
+Mike,Sirotka,Mike Sirotka,2000,BS,108,White Sox,5,2,3,6,4,1,3,1,0,490,7,L,Starter
+Danny,Graves,Danny Graves,2000,BS,114,Reds,4,2,4,7,3,2,2,0,0,180,1,R,Closer
+Pete,Harnisch,Pete Harnisch,2000,BS,115,Reds,4,2,4,5,5,1,2,1,0,450,6,R,Starter
+Scott,Sullivan,Scott Sullivan,2000,BS,118,Reds,6,3,4,3,5,2,2,1,0,150,1,R,Reliever
+Brett,Tomko,Brett Tomko,2000,BS,120,Reds,5,2,4,4,5,1,1,2,1,230,6,R,Starter
+Ron,Villone,Ron Villone,2000,BS,123,Reds,3,4,4,4,4,2,1,1,0,340,6,L,Starter
+Scott,Williamson,Scott Williamson,2000,BS,124,Reds,3,1,8,4,5,2,0,0,0,190,1,R,Closer
+Dave,Burba,Dave Burba,2000,BS,128,Indians,3,2,4,5,5,1,2,1,0,370,7,R,Starter
+Bartolo,Colon,Bartolo Colon,2000,BS,129,Indians,3,3,4,6,4,1,1,1,0,440,6,R,Starter
+Mike,Jackson,Mike Jackson,2000,BS,132,Indians,6,3,4,5,3,2,3,0,0,200,1,R,Closer
+Charles,Nagy,Charles Nagy,2000,BS,135,Indians,3,3,3,6,4,0,3,1,0,320,6,R,Starter
+Paul,Shuey,Paul Shuey,2000,BS,138,Indians,6,2,6,5,2,2,2,1,0,160,1,R,Reliever
+Pedro,Astacio,Pedro Astacio,2000,BS,143,Rockies,4,2,5,4,4,1,2,1,1,220,7,R,Starter
+Brian,Bohanon,Brian Bohanon,2000,BS,147,Rockies,0,3,4,5,5,1,1,1,0,10,6,L,Starter
+Jerry,Dipoto,Jerry Dipoto,2000,BS,149,Rockies,0,1,6,6,5,1,1,0,0,70,1,R,Reliever
+Darryl,Kile,Darryl Kile,2000,BS,151,Rockies,0,2,4,6,5,1,1,1,0,10,6,R,Starter
+Curtis,Leskanic,Curtis Leskanic,2000,BS,152,Rockies,0,2,7,7,2,1,0,1,0,60,1,R,Reliever
+Dave,Veres,Dave Veres,2000,BS,155,Rockies,0,3,7,5,3,0,1,0,1,60,1,R,Closer
+Todd,Jones,Todd Jones,2000,BS,165,Tigers,3,2,5,6,3,2,2,0,0,150,1,R,Closer
+Dave,Mlicki,Dave Mlicki,2000,BS,167,Tigers,3,3,3,6,4,1,2,1,0,340,6,R,Starter
+Brian,Moehler,Brian Moehler,2000,BS,168,Tigers,3,3,3,6,4,0,3,1,0,320,6,R,Starter
+C.,J. Nitkowski,C. J. Nitkowski,2000,BS,169,Tigers,4,3,4,5,4,3,1,0,0,150,1,L,Reliever
+Jeff,Weaver,Jeff Weaver,2000,BS,171,Tigers,3,3,4,5,4,1,2,1,0,330,6,R,Starter
+Antonio,Alfonseca,Antonio Alfonseca,2000,BS,172,Marlins,3,2,4,7,3,1,3,0,0,150,1,R,Closer
+Ryan,Dempster,Ryan Dempster,2000,BS,176,Marlins,4,2,5,4,3,3,2,1,0,220,6,R,Starter
+Brian,Edmondson,Brian Edmondson,2000,BS,177,Marlins,0,3,4,6,5,1,0,1,0,60,1,R,Reliever
+Braden,Looper,Braden Looper,2000,BS,181,Marlins,4,3,3,6,3,1,4,0,0,120,1,R,Reliever
+Brian,Meadows,Brian Meadows,2000,BS,183,Marlins,0,3,3,6,6,0,1,1,0,100,6,R,Starter
+Dennis,Springer,Dennis Springer,2000,BS,185,Marlins,0,3,3,6,6,0,2,0,0,210,7,R,Starter
+Scott,Elarton,Scott Elarton,2000,BS,192,Astros,4,3,6,3,4,1,2,1,0,440,6,R,Starter
+Mike,Hampton,Mike Hampton,2000,BS,195,Astros,3,2,5,7,2,2,2,0,0,470,7,L,Starter
+Jose,Lima,Jose Lima,2000,BS,198,Astros,3,4,5,4,4,0,2,1,0,460,7,R,Starter
+Jay,Powell,Jay Powell,2000,BS,199,Astros,4,3,6,3,2,2,3,1,0,70,1,R,Reliever
+Shane,Reynolds,Shane Reynolds,2000,BS,200,Astros,3,2,6,6,3,0,2,1,0,470,7,R,Starter
+Billy,Wagner,Billy Wagner,2000,BS,202,Astros,5,2,11,2,3,1,1,0,0,230,1,L,Closer
+Jeff,Montgomery,Jeff Montgomery,2000,BS,209,Royals,4,3,2,6,3,1,4,1,0,100,1,R,Closer
+Jose,Rosado,Jose Rosado,2000,BS,211,Royals,4,2,4,5,5,1,2,1,0,450,6,L,Starter
+Scott,Service,Scott Service,2000,BS,213,Royals,0,2,6,5,5,1,1,0,0,70,1,R,Reliever
+Jeff,Suppan,Jeff Suppan,2000,BS,215,Royals,5,2,2,7,4,1,3,1,0,460,6,R,Starter
+Jay,Witasick,Jay Witasick,2000,BS,217,Royals,3,2,3,6,4,2,3,0,0,280,6,R,Starter
+Pedro,Borbon,Pedro Borbon,2000,BS,219,Dodgers,5,2,3,4,6,3,1,1,0,140,1,L,Reliever
+Kevin,Brown,Kevin Brown,2000,BS,220,Dodgers,5,3,5,5,3,1,2,1,0,600,7,R,Starter
+Chan,Ho Park,Chan Ho Park,2000,BS,226,Dodgers,4,3,5,3,3,3,2,1,0,200,6,R,Starter
+Jeff,Shaw,Jeff Shaw,2000,BS,227,Dodgers,6,3,3,4,5,1,4,0,0,200,1,R,Closer
+Ismael,Valdes,Ismael Valdes,2000,BS,229,Dodgers,3,2,4,5,5,0,2,1,1,180,6,R,Starter
+Scott,Karl,Scott Karl,2000,BS,239,Brewers,3,2,2,7,4,1,3,1,0,220,6,L,Starter
+Mike,Myers,Mike Myers,2000,BS,241,Brewers,0,2,6,6,4,0,1,0,1,40,1,L,Reliever
+Hideo,Nomo,Hideo Nomo,2000,BS,243,Brewers,3,2,6,3,5,2,1,1,0,330,6,R,Starter
+Bob,Wickman,Bob Wickman,2000,BS,246,Brewers,4,2,5,6,2,2,3,0,0,150,1,R,Closer
+Steve,Woodard,Steve Woodard,2000,BS,247,Brewers,3,3,4,5,4,0,3,1,0,310,6,R,Starter
+Joe,Mays,Joe Mays,2000,BS,255,Twins,3,3,3,6,4,1,2,1,0,390,7,R,Starter
+Eric,Milton,Eric Milton,2000,BS,257,Twins,6,2,4,3,6,1,3,1,0,530,6,L,Starter
+Brad,Radke,Brad Radke,2000,BS,258,Twins,4,3,3,6,4,0,3,1,0,480,7,R,Starter
+Mike,Trombley,Mike Trombley,2000,BS,260,Twins,5,2,5,4,4,1,3,1,0,160,1,R,Closer
+Bob,Wells,Bob Wells,2000,BS,262,Twins,6,2,3,4,6,1,3,1,0,150,1,R,Reliever
+Dustin,Hermanson,Dustin Hermanson,2000,BS,269,Expos,3,3,4,4,5,1,2,1,0,320,6,R,Starter
+Steve,Kline,Steve Kline,2000,BS,270,Expos,6,1,6,6,2,2,2,1,0,160,1,L,Reliever
+Mike,Thurman,Mike Thurman,2000,BS,272,Expos,5,3,3,5,4,2,2,1,0,410,5,R,Starter
+Ugueth,Urbina,Ugueth Urbina,2000,BS,273,Expos,6,2,8,2,3,2,3,0,0,200,1,R,Closer
+Javier,Vazquez,Javier Vazquez,2000,BS,274,Expos,5,2,4,5,4,1,2,2,0,390,6,R,Starter
+Armando,Benitez,Armando Benitez,2000,BS,279,Mets,3,1,12,1,4,2,0,0,0,190,1,R,Closer
+Dennis,Cook,Dennis Cook,2000,BS,281,Mets,3,2,7,3,5,1,0,1,1,90,1,R,Reliever
+Orel,Hershiser,Orel Hershiser,2000,BS,286,Mets,4,3,3,6,3,2,2,1,0,360,6,R,Starter
+Al,Leiter,Al Leiter,2000,BS,287,Mets,4,1,5,5,4,2,2,1,0,350,6,R,Starter
+Kenny,Rogers,Kenny Rogers,2000,BS,291,Mets,0,2,4,8,4,1,1,0,0,190,6,R,Starter
+Turk,Wendell,Turk Wendell,2000,BS,293,Mets,3,2,6,3,5,1,2,1,0,100,1,R,Reliever
+Masato,Yoshii,Masato Yoshii,2000,BS,294,Mets,3,1,4,5,6,1,1,2,0,270,6,R,Starter
+Roger,Clemens,Roger Clemens,2000,BS,296,Yankees,3,2,5,5,4,2,2,0,0,400,6,R,Starter
+David,Cone,David Cone,2000,BS,297,Yankees,5,2,5,4,4,2,2,1,0,460,6,R,Starter
+Orlando,Hernandez,Orlando Hernandez,2000,BS,300,Yankees,3,3,4,4,6,1,1,1,0,430,6,R,Starter
+Ramiro,Mendoza,Ramiro Mendoza,2000,BS,305,Yankees,4,3,4,6,3,0,3,1,0,270,2,R,Reliever
+Andy,Pettitte,Andy Pettitte,2000,BS,307,Yankees,4,2,3,7,3,1,3,1,0,350,6,L,Starter
+Mariano,Rivera,Mariano Rivera,2000,BS,309,Yankees,4,3,4,7,4,1,1,0,0,210,1,R,Closer
+Mike,Stanton,Mike Stanton,2000,BS,310,Yankees,5,3,5,3,4,0,4,1,0,120,1,L,Reliever
+Kevin,Appier,Kevin Appier,2000,BS,312,Athletics,3,3,3,6,4,1,2,1,0,340,6,R,Starter
+Buddy,Groom,Buddy Groom,2000,BS,317,Athletics,3,2,4,7,3,1,3,0,0,120,1,L,Reliever
+Gil,Heredia,Gil Heredia,2000,BS,318,Athletics,4,3,3,6,4,0,3,1,0,440,6,R,Starter
+Doug,Jones,Doug Jones,2000,BS,321,Athletics,3,2,4,6,5,0,2,1,0,120,1,R,Reliever
+Omar,Olivares,Omar Olivares,2000,BS,322,Athletics,3,2,2,7,5,1,2,1,0,340,6,R,Starter
+Paul,Byrd,Paul Byrd,2000,BS,331,Phillies,3,3,3,5,5,1,2,1,0,330,6,R,Starter
+Wayne,Gomes,Wayne Gomes,2000,BS,334,Phillies,4,2,4,6,2,4,2,0,0,130,1,R,Closer
+Steve,Montgomery,Steve Montgomery,2000,BS,337,Phillies,5,1,5,4,5,2,2,1,0,130,1,R,Reliever
+Chad,Ogea,Chad Ogea,2000,BS,338,Phillies,0,3,3,5,7,0,0,1,1,10,6,R,Starter
+Curt,Schilling,Curt Schilling,2000,BS,340,Phillies,6,2,5,4,4,1,3,1,0,600,8,R,Starter
+Kris,Benson,Kris Benson,2000,BS,343,Pirates,3,2,5,6,3,1,2,1,0,340,6,R,Starter
+Brad,Clontz,Brad Clontz,2000,BS,346,Pirates,3,2,5,4,5,2,2,0,0,120,1,R,Reliever
+Todd,Ritchie,Todd Ritchie,2000,BS,351,Pirates,5,2,4,6,3,1,3,1,0,500,7,R,Starter
+Scott,Sauerbeck,Scott Sauerbeck,2000,BS,352,Pirates,3,2,5,6,3,2,1,1,0,110,1,R,Reliever
+Jason,Schmidt,Jason Schmidt,2000,BS,353,Pirates,3,3,4,5,4,1,2,1,0,330,6,R,Starter
+Mike,Williams,Mike Williams,2000,BS,355,Pirates,0,3,9,3,3,1,1,0,0,90,1,R,Closer
+Andy,Ashby,Andy Ashby,2000,BS,357,Padres,4,3,4,6,3,1,2,1,0,500,7,R,Starter
+Sterling,Hitchcock,Sterling Hitchcock,2000,BS,360,Padres,5,2,6,3,4,1,3,1,0,430,6,L,Starter
+Trevor,Hoffman,Trevor Hoffman,2000,BS,361,Padres,4,1,8,5,4,0,1,1,0,200,1,R,Closer
+Matt,Whisenant,Matt Whisenant,2000,BS,370,Padres,4,2,4,6,2,3,2,1,0,80,1,L,Reliever
+Woody,Williams,Woody Williams,2000,BS,371,Padres,3,2,4,5,5,1,1,1,1,190,6,R,Starter
+Alan,Embree,Alan Embree,2000,BS,376,Giants,6,1,5,3,6,3,2,0,0,170,1,L,Reliever
+Shawn,Estes,Shawn Estes,2000,BS,377,Giants,0,3,6,5,4,1,1,0,0,150,6,L,Starter
+John,Johnstone,John Johnstone,2000,BS,378,Giants,6,2,5,3,6,1,2,1,0,170,1,R,Reliever
+Robb,Nen,Robb Nen,2000,BS,382,Giants,3,2,7,4,3,1,3,0,0,140,1,R,Closer
+Russ,Ortiz,Russ Ortiz,2000,BS,383,Giants,0,2,6,5,5,2,0,0,0,170,6,R,Starter
+Kirk,Rueter,Kirk Rueter,2000,BS,384,Giants,4,3,2,5,5,1,3,1,0,330,6,L,Starter
+Freddy,Garcia,Freddy Garcia,2000,BS,390,Mariners,3,2,5,5,4,1,2,1,0,330,6,R,Starter
+John,Halama,John Halama,2000,BS,392,Mariners,5,2,3,6,4,1,3,1,0,490,7,L,Starter
+Jose,Mesa,Jose Mesa,2000,BS,397,Mariners,4,2,3,5,4,2,4,0,0,120,1,R,Closer
+Jamie,Moyer,Jamie Moyer,2000,BS,398,Mariners,3,3,3,6,5,0,2,1,0,470,7,L,Starter
+Jose,Paniagua,Jose Paniagua,2000,BS,399,Mariners,3,1,5,6,3,3,2,0,0,100,1,R,Reliever
+Manny,Aybar,Manny Aybar,2000,BS,402,Cardinals,3,2,5,4,5,1,2,1,0,100,1,R,Reliever
+Ricky,Bottalico,Ricky Bottalico,2000,BS,403,Cardinals,2,3,5,4,3,2,2,1,0,70,1,R,Closer
+Kent,Bottenfield,Kent Bottenfield,2000,BS,404,Cardinals,0,3,5,4,6,1,1,0,0,140,6,R,Starter
+Jose,Jimenez,Jose Jimenez,2000,BS,408,Cardinals,0,3,5,7,3,1,1,0,0,180,6,R,Starter
+Darren,Oliver,Darren Oliver,2000,BS,413,Cardinals,4,2,3,6,4,1,3,1,0,380,7,L,Starter
+Lance,Painter,Lance Painter,2000,BS,414,Cardinals,3,2,6,5,3,1,2,1,0,100,1,L,Reliever
+Wilson,Alvarez,Wilson Alvarez,2000,BS,417,Devil Rays,3,2,4,6,4,2,1,1,0,360,6,L,Starter
+Rolando,Arrojo,Rolando Arrojo,2000,BS,418,Devil Rays,0,3,5,6,4,1,1,0,0,170,6,R,Starter
+Roberto,Hernandez,Roberto Hernandez,2000,BS,423,Devil Rays,5,2,5,5,3,2,3,0,0,180,1,R,Closer
+Rick,White,Rick White,2000,BS,429,Devil Rays,4,2,4,6,3,1,3,1,0,230,2,R,Reliever
+Bobby,Witt,Bobby Witt,2000,BS,431,Devil Rays,3,1,4,6,4,2,2,1,0,230,6,R,Starter
+Tim,Crabtree,Tim Crabtree,2000,BS,433,Rangers,5,2,4,6,3,1,4,0,0,150,1,R,Reliever
+Rick,Helling,Rick Helling,2000,BS,437,Rangers,3,2,3,5,6,1,1,1,1,190,6,R,Starter
+Mike,Morgan,Mike Morgan,2000,BS,439,Rangers,0,3,2,9,4,0,1,1,0,40,5,R,Starter
+Aaron,Sele,Aaron Sele,2000,BS,442,Rangers,4,2,5,5,3,1,3,1,0,330,6,R,Starter
+Mike,Venafro,Mike Venafro,2000,BS,444,Rangers,4,2,3,9,2,1,3,0,0,150,1,L,Reliever
+John,Wetteland,John Wetteland,2000,BS,445,Rangers,6,2,5,2,6,1,3,1,0,180,1,R,Closer
+Jeff,Zimmerman,Jeff Zimmerman,2000,BS,447,Rangers,4,2,5,5,6,1,1,0,0,180,1,R,Reliever
+Kelvim,Escobar,Kelvim Escobar,2000,BS,452,Blue Jays,0,3,4,6,5,1,1,0,0,160,6,R,Starter
+Pat,Hentgen,Pat Hentgen,2000,BS,456,Blue Jays,3,3,3,5,5,1,2,1,0,330,6,R,Starter
+Billy,Koch,Billy Koch,2000,BS,457,Blue Jays,5,1,5,6,3,2,2,1,0,170,1,R,Closer
+Graeme,Lloyd,Graeme Lloyd,2000,BS,458,Blue Jays,6,2,3,6,4,1,3,1,0,150,1,R,Reliever
+David,Wells,David Wells,2000,BS,462,Blue Jays,4,3,4,5,4,1,2,1,0,490,7,L,Starter
+Kent,Bottenfield,Kent Bottenfield,2000,PR,1,Angels,3,3,4,5,4,1,2,1,0,330,6,R,Starter
+Ken,Hill,Ken Hill,2000,PR,2,Angels,0,2,4,7,5,1,1,0,0,170,6,R,Starter
+Brian,Anderson,Brian Anderson,2000,PR,6,Diamondbacks,5,2,3,5,5,0,4,1,0,420,6,L,Starter
+Armando,Reynoso,Armando Reynoso,2000,PR,8,Diamondbacks,4,2,3,5,5,1,3,1,0,330,6,R,Starter
+Russ,Springer,Russ Springer,2000,PR,9,Diamondbacks,5,2,5,2,7,2,1,1,0,150,1,R,Reliever
+Todd,Stottlemyre,Todd Stottlemyre,2000,PR,10,Diamondbacks,4,3,4,4,4,2,2,1,0,340,6,R,Starter
+Kevin,McGlinchy,Kevin McGlinchy,2000,PR,14,Braves,3,3,6,3,4,1,2,1,0,100,1,R,Reliever
+Terry,Mulholland,Terry Mulholland,2000,PR,15,Braves,4,2,3,7,3,0,4,1,0,330,6,L,Starter
+Mike,Trombley,Mike Trombley,2000,PR,19,Orioles,4,2,5,4,5,1,2,1,0,130,1,R,Reliever
+Ramon,Martinez,Ramon Martinez,2000,PR,22,Red Sox,6,2,5,4,4,2,2,1,0,570,6,R,Starter
+Bret,Saberhagen,Bret Saberhagen,2000,PR,23,Red Sox,5,3,4,4,5,0,3,1,0,430,6,R,Starter
+John,Wasdin,John Wasdin,2000,PR,24,Red Sox,5,3,4,4,5,0,2,1,1,240,2,R,Reliever
+Kevin,Tapani,Kevin Tapani,2000,PR,28,Cubs,3,3,3,6,4,0,2,2,0,260,6,R,Starter
+Kerry,Wood,Kerry Wood,2000,PR,29,Cubs,4,2,9,2,3,3,1,0,0,520,6,R,Starter
+Keith,Foulke,Keith Foulke,2000,PR,31,White Sox,4,3,7,3,5,0,1,1,0,350,2,R,Reliever
+Sean,Lowe,Sean Lowe,2000,PR,33,White Sox,3,2,3,7,4,2,2,0,0,120,1,R,Reliever
+Denny,Neagle,Denny Neagle,2000,PR,37,Reds,6,2,4,3,6,2,0,2,1,350,6,L,Starter
+Steve,Parris,Steve Parris,2000,PR,38,Reds,3,2,4,6,4,1,2,1,0,340,6,R,Starter
+Dennys,Reyes,Dennys Reyes,2000,PR,39,Reds,3,2,7,5,2,3,1,0,0,130,1,L,Reliever
+Chuck,Finley,Chuck Finley,2000,PR,41,Indians,5,2,5,4,4,2,2,1,0,460,6,L,Starter
+Steve,Karsay,Steve Karsay,2000,PR,42,Indians,6,3,5,5,2,2,2,1,0,190,1,R,Closer
+Steve,Reed,Steve Reed,2000,PR,43,Indians,5,2,4,5,4,1,3,1,0,130,1,R,Reliever
+Jaret,Wright,Jaret Wright,2000,PR,44,Indians,0,3,4,6,5,1,1,0,0,60,5,R,Starter
+Doug,Brocail,Doug Brocail,2000,PR,51,Tigers,4,2,6,5,4,1,2,0,0,160,1,R,Reliever
+Hideo,Nomo,Hideo Nomo,2000,PR,54,Tigers,3,2,6,3,5,1,1,1,1,220,7,R,Starter
+Alex,Fernandez,Alex Fernandez,2000,PR,57,Marlins,4,2,4,5,5,1,2,1,0,450,6,R,Starter
+Dan,Miceli,Dan Miceli,2000,PR,59,Marlins,3,2,5,6,3,2,2,0,0,120,1,R,Reliever
+Vladimir,Nunez,Vladimir Nunez,2000,PR,60,Marlins,3,2,5,4,5,2,1,1,0,340,6,R,Starter
+Octavio,Dotel,Octavio Dotel,2000,PR,63,Astros,3,1,7,3,5,3,0,1,0,350,6,R,Starter
+Brad,Rigby,Brad Rigby,2000,PR,67,Royals,4,3,2,6,4,1,3,1,0,220,2,R,Reliever
+Blake,Stein,Blake Stein,2000,PR,68,Royals,4,2,3,4,6,4,1,0,0,420,6,R,Starter
+Mac,Suzuki,Mac Suzuki,2000,PR,69,Royals,3,2,3,5,5,2,2,1,0,210,6,R,Starter
+Terry,Adams,Terry Adams,2000,PR,70,Dodgers,6,3,4,6,2,2,2,1,0,160,1,R,Reliever
+Darren,Dreifort,Darren Dreifort,2000,PR,71,Dodgers,4,2,5,5,3,2,2,1,0,350,6,R,Starter
+Gregg,Olson,Gregg Olson,2000,PR,75,Dodgers,3,2,4,5,6,1,2,0,0,140,1,R,Reliever
+Dave,Weathers,Dave Weathers,2000,PR,78,Brewers,4,3,5,4,3,1,3,1,0,100,1,R,Reliever
+Hector,Carrasco,Hector Carrasco,2000,PR,79,Twins,3,2,4,6,4,1,3,0,0,120,1,R,Reliever
+Eddie,Guardado,Eddie Guardado,2000,PR,80,Twins,4,1,6,3,6,2,0,2,0,150,1,L,Closer
+Hideki,Irabu,Hideki Irabu,2000,PR,84,Expos,5,3,4,3,5,1,3,1,0,370,5,R,Starter
+Anthony,Telford,Anthony Telford,2000,PR,86,Expos,0,3,5,7,3,0,2,0,0,70,1,R,Reliever
+John,Franco,John Franco,2000,PR,88,Mets,3,4,6,4,2,1,2,1,0,100,1,L,Reliever
+Mike,Hampton,Mike Hampton,2000,PR,89,Mets,3,2,5,6,3,2,2,0,0,410,6,L,Starter
+Bobby,J. Jones,Bobby J. Jones,2000,PR,90,Mets,5,3,3,5,4,1,3,1,0,450,6,R,Starter
+Jason,Grimsley,Jason Grimsley,2000,PR,93,Yankees,4,3,3,7,3,2,2,0,0,150,1,R,Reliever
+Ramiro,Mendoza,Ramiro Mendoza,2000,PR,96,Yankees,4,3,4,6,3,0,3,1,0,480,7,R,Starter
+Tim,Hudson,Tim Hudson,2000,PR,99,Athletics,5,3,5,5,2,2,2,1,0,480,6,R,Starter
+Jason,Isringhausen,Jason Isringhausen,2000,PR,100,Athletics,3,2,4,5,5,2,1,1,0,140,1,R,Closer
+Mike,Magnante,Mike Magnante,2000,PR,101,Athletics,4,3,3,5,5,1,2,1,0,130,1,L,Reliever
+Robert,Person,Robert Person,2000,PR,104,Phillies,0,2,7,4,5,1,0,1,0,100,6,R,Starter
+Jason,Christiansen,Jason Christiansen,2000,PR,106,Pirates,3,2,6,6,3,2,0,1,0,130,1,L,Reliever
+Francisco,Cordova,Francisco Cordova,2000,PR,108,Pirates,4,2,4,5,4,1,3,1,0,330,6,R,Starter
+Matt,Clement,Matt Clement,2000,PR,113,Padres,0,2,5,7,4,1,1,0,0,170,6,R,Starter
+Livan,Hernandez,Livan Hernandez,2000,PR,119,Giants,4,3,4,4,4,1,3,1,0,370,7,R,Starter
+Joe,Nathan,Joe Nathan,2000,PR,121,Giants,3,3,4,6,3,1,2,0,1,190,5,R,Starter
+Gil,Meche,Gil Meche,2000,PR,124,Mariners,4,1,3,6,5,3,1,1,0,380,6,R,Starter
+Arthur,Rhodes,Arthur Rhodes,2000,PR,126,Mariners,3,1,6,4,5,3,0,0,1,180,2,L,Reliever
+Aaron,Sele,Aaron Sele,2000,PR,127,Mariners,3,2,6,5,3,1,2,1,0,380,7,R,Starter
+Pat,Hentgen,Pat Hentgen,2000,PR,129,Cardinals,3,3,3,5,5,1,2,0,1,170,5,R,Starter
+Darryl,Kile,Darryl Kile,2000,PR,130,Cardinals,3,1,4,6,4,2,2,1,0,230,6,R,Starter
+Dave,Veres,Dave Veres,2000,PR,132,Cardinals,5,2,5,4,4,2,3,0,0,170,1,R,Closer
+Juan,Guzman,Juan Guzman,2000,PR,135,Devil Rays,5,2,4,4,5,2,2,1,0,40,5,R,Starter
+Ryan,Rupe,Ryan Rupe,2000,PR,136,Devil Rays,5,2,3,5,5,2,2,1,0,460,6,R,Starter
+Esteban,Yan,Esteban Yan,2000,PR,139,Devil Rays,2,2,4,5,4,2,3,0,0,50,1,R,Reliever
+Kenny,Rogers,Kenny Rogers,2000,PR,143,Rangers,4,2,3,7,3,1,3,1,0,350,6,L,Starter
+Chris,Carpenter,Chris Carpenter,2000,PR,146,Blue Jays,3,3,4,5,4,1,2,1,0,330,6,R,Starter
+Roy,Halladay,Roy Halladay,2000,PR,149,Blue Jays,4,3,3,5,4,2,2,1,0,400,7,R,Starter
+Shigetoshi,Hasegawa,Shigetoshi Hasegawa,2001,BS,5,Angels,2,3,4,6,4,1,2,0,0,130,1,R,Reliever
+Al,Levine,Al Levine,2001,BS,7,Angels,4,2,2,7,4,2,2,1,0,210,2,R,Reliever
+Troy,Percival,Troy Percival,2001,BS,9,Angels,2,2,6,3,6,2,1,0,0,120,1,R,Closer
+Mark,Petkovsek,Mark Petkovsek,2001,BS,10,Angels,4,2,2,9,3,0,3,1,0,180,1,R,Reliever
+Scott,Schoeneweis,Scott Schoeneweis,2001,BS,12,Angels,4,2,3,8,2,1,3,1,0,380,6,L,Starter
+Jarrod,Washburn,Jarrod Washburn,2001,BS,15,Angels,5,3,3,4,5,2,2,1,0,430,6,L,Starter
+Brian,Anderson,Brian Anderson,2001,BS,16,Diamondbacks,4,3,2,6,5,0,2,1,1,310,7,L,Starter
+Randy,Johnson,Randy Johnson,2001,BS,22,Diamondbacks,3,2,8,4,3,1,1,1,0,440,7,L,Starter
+Byung-Hyun,Kim,Byung-Hyun Kim,2001,BS,23,Diamondbacks,2,2,10,3,2,3,0,0,0,110,1,R,Reliever
+Matt,Mantei,Matt Mantei,2001,BS,24,Diamondbacks,5,4,6,2,3,3,1,1,0,170,1,R,Closer
+Mike,Morgan,Mike Morgan,2001,BS,25,Diamondbacks,1,2,3,9,3,0,3,0,0,70,1,R,Reliever
+Curt,Schilling,Curt Schilling,2001,BS,26,Diamondbacks,3,3,5,5,4,0,2,1,0,450,7,R,Starter
+Greg,Swindell,Greg Swindell,2001,BS,28,Diamondbacks,5,2,5,4,5,0,3,1,0,210,1,L,Reliever
+Andy,Ashby,Andy Ashby,2001,BS,31,Braves,2,2,3,8,4,0,2,1,0,340,6,R,Starter
+Tom,Glavine,Tom Glavine,2001,BS,35,Braves,3,3,3,7,4,0,2,1,0,480,7,L,Starter
+Greg,Maddux,Greg Maddux,2001,BS,42,Braves,6,2,4,7,2,1,3,1,0,590,7,R,Starter
+Kevin,Millwood,Kevin Millwood,2001,BS,43,Braves,3,3,4,4,6,0,2,1,0,410,6,R,Starter
+Mike,Remlinger,Mike Remlinger,2001,BS,44,Braves,3,2,6,6,3,2,1,0,0,200,1,L,Reliever
+John,Rocker,John Rocker,2001,BS,45,Braves,3,3,8,2,3,3,1,0,0,130,1,L,Closer
+Buddy,Groom,Buddy Groom,2001,BS,52,Orioles,5,2,4,6,3,1,3,1,0,170,1,L,Reliever
+Jose,Mercedes,Jose Mercedes,2001,BS,55,Orioles,2,3,3,6,5,1,1,1,0,310,6,R,Starter
+Mike,Mussina,Mike Mussina,2001,BS,57,Orioles,3,3,5,6,3,0,2,1,0,450,7,R,Starter
+Sidney,Ponson,Sidney Ponson,2001,BS,58,Orioles,2,3,4,6,4,1,2,0,0,410,7,R,Starter
+Pat,Rapp,Pat Rapp,2001,BS,59,Orioles,5,2,3,5,4,2,2,2,0,240,6,R,Starter
+Mike,Tromley,Mike Tromley,2001,BS,62,Orioles,5,2,5,5,3,2,2,0,1,100,1,R,Reliever
+Rolando,Arrojo,Rolando Arrojo,2001,BS,63,Red Sox,1,3,4,7,3,1,1,1,0,130,5,R,Starter
+Rheal,Cormier,Rheal Cormier,2001,BS,65,Red Sox,4,3,4,6,3,0,3,1,0,170,1,L,Reliever
+Rich,Garces,Rich Garces,2001,BS,67,Red Sox,4,3,5,5,4,0,2,1,0,220,1,R,Reliever
+Derek,Lowe,Derek Lowe,2001,BS,71,Red Sox,5,2,5,7,2,0,3,1,0,250,1,R,Closer
+Pedro,Martinez,Pedro Martinez,2001,BS,72,Red Sox,5,2,8,4,3,1,2,0,0,700,7,R,Starter
+Ramon,Martinez,Ramon Martinez,2001,BS,73,Red Sox,2,4,4,5,3,2,1,1,0,110,5,R,Starter
+Rick,Aguilera,Rick Aguilera,2001,BS,78,Cubs,4,3,4,6,3,1,2,0,1,130,1,R,Closer
+Felix,Heredia,Felix Heredia,2001,BS,84,Cubs,5,2,5,5,3,2,2,1,0,170,1,L,Reliever
+Jon,Lieber,Jon Lieber,2001,BS,85,Cubs,3,2,5,7,3,0,2,1,0,470,7,R,Starter
+Kevin,Tapani,Kevin Tapani,2001,BS,88,Cubs,4,3,4,6,3,0,2,1,1,310,7,R,Starter
+Todd,Van Poppel,Todd Van Poppel,2001,BS,89,Cubs,4,3,5,4,3,2,2,1,0,160,2,R,Reliever
+Kerry,Wood,Kerry Wood,2001,BS,91,Cubs,1,4,6,4,3,3,0,0,0,190,6,R,Starter
+James,Baldwin,James Baldwin,2001,BS,93,White Sox,4,3,4,6,3,1,2,0,1,350,6,R,Starter
+Keith,Foulke,Keith Foulke,2001,BS,95,White Sox,4,3,6,4,4,1,2,0,0,270,1,R,Closer
+Bob,Howry,Bob Howry,2001,BS,96,White Sox,4,3,5,5,3,2,2,0,0,200,1,R,Reliever
+Jim,Parque,Jim Parque,2001,BS,102,White Sox,5,2,3,6,3,2,3,1,0,350,6,L,Starter
+Bill,Simas,Bill Simas,2001,BS,104,White Sox,2,3,4,5,5,0,2,1,0,90,1,R,Reliever
+Mike,Sirotka,Mike Sirotka,2001,BS,106,White Sox,2,3,4,7,3,1,2,0,0,390,6,L,Starter
+Kelly,Wunsch,Kelly Wunsch,2001,BS,109,White Sox,4,1,5,8,2,2,2,0,0,230,1,L,Reliever
+Danny,Graves,Danny Graves,2001,BS,112,Reds,5,2,3,7,3,2,2,1,0,200,1,R,Closer
+Pete,Harnisch,Pete Harnisch,2001,BS,114,Reds,5,3,3,5,4,1,2,2,0,380,6,R,Starter
+Steve,Parris,Steve Parris,2001,BS,117,Reds,5,3,3,5,3,1,3,2,0,240,6,R,Starter
+Scott,Sullivan,Scott Sullivan,2001,BS,120,Reds,4,4,5,4,3,1,2,1,0,160,1,R,Reliever
+Ron,Villone,Ron Villone,2001,BS,123,Reds,0,4,3,6,4,2,0,1,0,10,6,R,Starter
+Jason,Bere,Jason Bere,2001,BS,127,Indians,1,3,5,6,3,1,2,0,0,170,5,R,Starter
+Dave,Burba,Dave Burba,2001,BS,128,Indians,3,2,5,6,3,1,2,1,0,340,6,R,Starter
+Bartolo,Colon,Bartolo Colon,2001,BS,129,Indians,2,3,7,5,2,2,1,0,0,360,6,R,Starter
+Chuck,Finley,Chuck Finley,2001,BS,131,Indians,2,2,5,7,3,1,2,0,0,390,6,R,Starter
+Steve,Karsay,Steve Karsay,2001,BS,133,Indians,5,1,5,6,3,1,3,1,0,190,1,R,Closer
+Bob,Wickman,Bob Wickman,2001,BS,139,Indians,5,3,4,7,2,1,2,1,0,250,1,R,Closer
+Pedro,Astacio,Pedro Astacio,2001,BS,140,Rockies,1,2,6,6,3,1,1,1,0,170,6,R,Starter
+Brian,Bohanon,Brian Bohanon,2001,BS,141,Rockies,3,3,3,7,3,1,2,1,0,390,7,L,Starter
+Jose,Jimenez,Jose Jimenez,2001,BS,148,Rockies,5,2,3,8,3,1,2,1,0,260,1,L,Closer
+Gabe,White,Gabe White,2001,BS,153,Rockies,5,3,6,3,5,0,2,1,0,260,1,L,Reliever
+Masato,Yoshii,Masato Yoshii,2001,BS,154,Rockies,4,3,3,5,4,1,2,1,1,150,6,R,Starter
+Matt,Anderson,Matt Anderson,2001,BS,155,Tigers,3,2,6,5,3,2,2,0,0,130,1,R,Reliever
+Todd,Jones,Todd Jones,2001,BS,165,Tigers,3,2,6,6,2,1,3,0,0,160,1,R,Closer
+Brian,Moehler,Brian Moehler,2001,BS,166,Tigers,4,3,3,6,3,0,4,1,0,340,6,R,Starter
+Hideo,Nomo,Hideo Nomo,2001,BS,167,Tigers,2,3,6,4,4,1,1,1,0,290,6,R,Starter
+Jeff,Weaver,Jeff Weaver,2001,BS,169,Tigers,2,3,4,6,4,0,2,1,0,350,7,R,Starter
+Antonio,Alfonseca,Antonio Alfonseca,2001,BS,170,Marlins,4,2,4,7,2,1,3,1,0,140,1,R,Closer
+Ryan,Dempster,Ryan Dempster,2001,BS,172,Marlins,3,3,5,5,3,1,2,1,0,360,7,R,Starter
+Braden,Looper,Braden Looper,2001,BS,177,Marlins,4,3,2,8,2,2,3,0,0,170,1,R,Reliever
+Brad,Penny,Brad Penny,2001,BS,179,Marlins,5,2,3,6,3,2,3,1,0,310,5,R,Starter
+Jesus,Sanchez,Jesus Sanchez,2001,BS,182,Marlins,3,3,3,5,5,1,1,1,1,160,6,L,Starter
+Jose,Cabrera,Jose Cabrera,2001,BS,190,Astros,5,2,3,4,5,1,3,2,0,40,1,R,Reliever
+Octavio,Dotel,Octavio Dotel,2001,BS,191,Astros,6,3,5,2,4,2,2,1,1,30,1,R,Closer
+Scott,Elarton,Scott Elarton,2001,BS,192,Astros,1,4,3,5,5,1,1,1,0,140,6,R,Starter
+Chris,Holt,Chris Holt,2001,BS,194,Astros,1,2,3,8,4,0,2,1,0,210,6,R,Starter
+Jose,Lima,Jose Lima,2001,BS,195,Astros,2,3,3,5,5,0,2,1,1,30,6,R,Starter
+Ricky,Bottalico,Ricky Bottalico,2001,BS,201,Royals,2,3,5,5,4,2,0,1,0,80,1,R,Reliever
+Dan,Reichert,Dan Reichert,2001,BS,208,Royals,2,2,4,8,2,2,2,0,0,340,7,R,Starter
+Jose,Santiago,Jose Santiago,2001,BS,210,Royals,5,2,3,7,3,1,3,1,0,290,2,R,Reliever
+Jeff,Suppan,Jeff Suppan,2001,BS,211,Royals,1,3,3,7,4,1,1,1,0,240,7,R,Starter
+Mac,Suzaki,Mac Suzaki,2001,BS,212,Royals,2,3,4,6,4,1,1,1,0,320,6,R,Starter
+Terry,Adams,Terry Adams,2001,BS,215,Dodgers,3,2,4,9,2,1,2,0,0,210,1,R,Reliever
+Kevin,Brown,Kevin Brown,2001,BS,217,Dodgers,4,2,5,7,3,0,2,1,0,570,7,R,Starter
+Darren,Dreifort,Darren Dreifort,2001,BS,219,Dodgers,3,2,5,7,2,2,1,0,1,270,6,R,Starter
+Chan,Ho Park,Chan Ho Park,2001,BS,227,Dodgers,5,2,5,5,3,2,2,1,0,470,7,R,Starter
+Jeff,Shaw,Jeff Shaw,2001,BS,228,Dodgers,3,4,4,5,4,0,2,1,0,170,1,R,Closer
+Juan,Acevedo,Juan Acevedo,2001,BS,230,Brewers,2,4,4,5,4,0,2,1,0,90,1,R,Reliever
+Jeff,D'Amico,Jeff D'Amico,2001,BS,234,Brewers,3,3,3,6,5,1,2,0,0,530,7,R,Starter
+Valerio,de los Santos,Valerio de los Santos,2001,BS,235,Brewers,4,4,5,4,3,1,2,0,1,100,1,L,Reliever
+Jimmy,Haynes,Jimmy Haynes,2001,BS,238,Brewers,4,3,2,6,3,2,3,1,0,230,6,R,Starter
+Curtis,Leskanic,Curtis Leskanic,2001,BS,241,Brewers,6,2,4,5,3,3,2,1,0,160,1,R,Reliever
+Dave,Weathers,Dave Weathers,2001,BS,244,Brewers,5,2,3,6,4,1,3,1,0,180,1,R,Reliever
+LaTroy,Hawkins,LaTroy Hawkins,2001,BS,248,Twins,5,2,3,6,4,1,3,1,0,180,1,R,Reliever
+Eric,Milton,Eric Milton,2001,BS,255,Twins,3,4,5,4,4,0,1,1,1,250,6,L,Starter
+Brad,Radke,Brad Radke,2001,BS,257,Twins,2,3,4,7,3,0,2,1,0,350,7,R,Starter
+Mark,Redman,Mark Redman,2001,BS,258,Twins,2,3,5,4,5,0,2,1,0,280,6,L,Starter
+Bob,Wells,Bob Wells,2001,BS,259,Twins,6,3,5,2,5,1,3,1,0,210,1,R,Reliever
+Dustin,Hermanson,Dustin Hermanson,2001,BS,266,Expos,2,3,2,7,4,1,2,1,0,220,6,R,Starter
+Steve,Kline,Steve Kline,2001,BS,268,Expos,3,2,4,7,3,1,2,1,0,120,1,L,Reliever
+Felipe,Lira,Felipe Lira,2001,BS,269,Expos,2,3,2,7,4,0,3,1,0,40,1,R,Reliever
+Anthony,Telford,Anthony Telford,2001,BS,272,Expos,2,2,5,6,4,1,2,0,0,130,1,R,Reliever
+Javier,Vazquez,Javier Vazquez,2001,BS,273,Expos,2,2,5,6,4,0,2,1,0,350,7,R,Starter
+Armando,Benitez,Armando Benitez,2001,BS,277,Mets,4,3,8,3,3,2,0,1,0,230,1,R,Closer
+Mike,Hampton,Mike Hampton,2001,BS,279,Mets,3,2,4,8,2,2,2,0,0,460,7,L,Starter
+Al,Leiter,Al Leiter,2001,BS,281,Mets,4,4,5,5,2,1,2,1,0,460,7,L,Starter
+Glendon,Rusch,Glendon Rusch,2001,BS,285,Mets,2,4,4,5,4,0,3,0,0,360,6,L,Starter
+Turk,Wendell,Turk Wendell,2001,BS,288,Mets,4,3,5,5,3,2,1,1,0,160,1,R,Reliever
+Rick,White,Rick White,2001,BS,289,Mets,5,2,4,6,4,1,2,1,0,360,2,R,Reliever
+Roger,Clemens,Roger Clemens,2001,BS,292,Yankees,2,3,5,5,4,2,1,0,0,350,6,R,Starter
+Jason,Grimsley,Jason Grimsley,2001,BS,293,Yankees,4,2,3,7,3,2,2,1,0,120,1,R,Reliever
+Orlando,Hernandez,Orlando Hernandez,2001,BS,294,Yankees,3,4,4,4,5,0,1,1,1,290,7,R,Starter
+Denny,Neagle,Denny Neagle,2001,BS,299,Yankees,2,4,4,4,5,1,1,1,0,280,6,L,Starter
+Jeff,Nelson,Jeff Nelson,2001,BS,300,Yankees,6,2,6,4,3,3,1,1,0,220,1,R,Reliever
+Andy,Pettitte,Andy Pettitte,2001,BS,302,Yankees,2,3,3,8,3,1,2,0,0,400,6,L,Starter
+Mariano,Rivera,Mariano Rivera,2001,BS,304,Yankees,6,3,4,6,3,1,2,1,0,300,1,R,Closer
+Kevin,Appier,Kevin Appier,2001,BS,307,Athletics,2,4,4,5,4,1,1,1,0,310,6,R,Starter
+Gil,Heredia,Gil Heredia,2001,BS,313,Athletics,2,2,3,8,4,0,2,1,0,340,6,R,Starter
+Tim,Hudson,Tim Hudson,2001,BS,315,Athletics,3,2,5,8,2,1,1,1,0,440,6,R,Starter
+Jason,Isringhausen,Jason Isringhausen,2001,BS,316,Athletics,6,3,4,5,2,2,4,0,0,230,1,R,Closer
+Jim,Mecir,Jim Mecir,2001,BS,318,Athletics,4,2,5,6,3,2,2,0,0,210,1,R,Reliever
+Mark,Mulder,Mark Mulder,2001,BS,319,Athletics,3,2,3,7,3,1,3,1,0,240,6,L,Starter
+Jeff,Brantley,Jeff Brantley,2001,BS,324,Phillies,5,3,5,3,3,2,3,0,1,10,1,R,Closer
+Omar,Daal,Omar Daal,2001,BS,326,Phillies,1,3,3,7,4,0,2,1,0,200,6,L,Starter
+Wayne,Gomes,Wayne Gomes,2001,BS,329,Phillies,4,3,3,7,2,2,2,1,0,120,1,R,Reliever
+Vicente,Padilla,Vicente Padilla,2001,BS,333,Phillies,5,2,4,7,2,1,3,1,0,190,1,R,Reliever
+Robert,Person,Robert Person,2001,BS,334,Phillies,4,3,5,3,4,3,1,1,0,290,6,R,Starter
+Randy,Wolf,Randy Wolf,2001,BS,337,Phillies,1,4,4,5,4,1,1,1,0,160,6,L,Starter
+Jimmy,Anderson,Jimmy Anderson,2001,BS,338,Pirates,1,2,2,10,3,1,2,0,0,230,5,L,Starter
+Kris,Benson,Kris Benson,2001,BS,340,Pirates,2,2,5,7,3,1,2,0,0,420,7,R,Starter
+Todd,Ritchie,Todd Ritchie,2001,BS,347,Pirates,1,3,4,7,3,0,2,1,0,180,6,R,Starter
+Scott,Sauerbeck,Scott Sauerbeck,2001,BS,348,Pirates,4,1,6,5,2,3,2,1,0,20,1,L,Reliever
+Jose,Silva,Jose Silva,2001,BS,349,Pirates,1,3,4,6,4,0,3,0,0,50,1,R,Reliever
+Mike,Williams,Mike Williams,2001,BS,351,Pirates,2,1,6,6,4,2,1,0,0,140,1,R,Closer
+Carlos,Almanzar,Carlos Almanzar,2001,BS,353,Padres,1,3,5,5,4,1,2,0,0,40,1,R,Reliever
+Matt,Clement,Matt Clement,2001,BS,355,Padres,2,2,5,7,2,3,1,0,0,300,6,R,Starter
+Adam,Eaton,Adam Eaton,2001,BS,356,Padres,5,2,3,6,3,2,3,1,0,350,6,R,Starter
+Trevor,Hoffman,Trevor Hoffman,2001,BS,358,Padres,6,3,7,3,3,0,3,1,0,290,1,R,Closer
+Kevin,Walker,Kevin Walker,2001,BS,365,Padres,5,2,4,6,3,3,2,0,0,220,1,L,Reliever
+Woody,Williams,Woody Williams,2001,BS,366,Padres,2,4,4,5,4,1,2,0,0,400,7,R,Starter
+Jay,Witasick,Jay Witasick,2001,BS,367,Padres,2,3,4,6,3,1,2,1,0,210,6,R,Starter
+Doug,Henry,Doug Henry,2001,BS,373,Giants,2,4,5,5,3,3,0,0,0,130,1,R,Reliever
+Livan,Hernandez,Livan Hernandez,2001,BS,374,Giants,6,2,3,6,3,1,4,1,0,480,7,R,Starter
+Robb,Nen,Robb Nen,2001,BS,379,Giants,5,2,8,4,3,1,2,0,0,330,1,R,Closer
+Russ,Ortiz,Russ Ortiz,2001,BS,380,Giants,3,3,4,5,3,2,2,1,0,190,6,R,Starter
+Felix,Rodriguez,Felix Rodriguez,2001,BS,382,Giants,4,2,7,3,4,2,2,0,0,190,1,R,Reliever
+Kirk,Rueter,Kirk Rueter,2001,BS,383,Giants,5,3,2,5,4,1,4,1,0,320,6,L,Starter
+Paul,Abbott,Paul Abbott,2001,BS,385,Mariners,4,3,3,5,5,1,2,1,0,450,6,R,Starter
+John,Halama,John Halama,2001,BS,389,Mariners,5,2,2,6,4,1,3,2,0,260,6,L,Starter
+Jose,Paniagua,Jose Paniagua,2001,BS,395,Mariners,5,3,5,4,3,2,2,1,0,160,1,R,Reliever
+Arthur,Rhodes,Arthur Rhodes,2001,BS,396,Mariners,4,2,7,5,3,1,2,0,0,250,1,L,Reliever
+Kazuhiro,Sasaki,Kazuhiro Sasaki,2001,BS,398,Mariners,5,2,7,4,3,2,1,1,0,240,1,R,Closer
+Aaron,Sele,Aaron Sele,2001,BS,399,Mariners,5,2,3,6,4,1,3,1,0,460,6,R,Starter
+Rick,Ankiel,Rick Ankiel,2001,BS,401,Cardinals,2,3,7,4,3,2,1,0,0,340,6,L,Starter
+Pat,Hentgen,Pat Hentgen,2001,BS,405,Cardinals,2,4,3,6,3,1,2,1,0,210,6,R,Starter
+Darryl,Kile,Darryl Kile,2001,BS,406,Cardinals,4,3,4,5,4,1,2,1,0,460,7,R,Starter
+Garret,Stephenson,Garret Stephenson,2001,BS,413,Cardinals,4,3,3,5,4,1,2,2,0,260,6,R,Starter
+Mike,Timlin,Mike Timlin,2001,BS,415,Cardinals,2,2,5,7,3,1,2,0,0,140,1,R,Reliever
+Dave,Veres,Dave Veres,2001,BS,416,Cardinals,5,2,5,6,2,2,2,1,0,190,1,R,Closer
+Doug,Creek,Doug Creek,2001,BS,421,Devil Rays,2,3,8,2,4,2,0,0,1,10,1,L,Reliever
+Roberto,Hernandez,Roberto Hernandez,2001,BS,424,Devil Rays,3,2,5,6,3,1,2,1,0,120,1,R,Closer
+Albie,Lopez,Albie Lopez,2001,BS,426,Devil Rays,3,2,3,8,3,1,2,1,0,400,7,R,Starter
+Bryan,Rekar,Bryan Rekar,2001,BS,429,Devil Rays,3,3,3,7,3,0,3,1,0,350,6,R,Starter
+Esteban,Yan,Esteban Yan,2001,BS,432,Devil Rays,3,2,5,5,4,1,1,1,1,40,2,R,Reliever
+Tim,Crabtree,Tim Crabtree,2001,BS,436,Rangers,3,3,4,8,2,0,2,1,0,170,1,R,Reliever
+Rick,Helling,Rick Helling,2001,BS,439,Rangers,6,3,3,3,5,2,2,2,0,340,6,R,Starter
+Kenny,Rogers,Kenny Rogers,2001,BS,445,Rangers,4,2,3,7,3,1,3,1,0,390,7,L,Starter
+Mike,Venafro,Mike Venafro,2001,BS,446,Rangers,6,2,3,7,2,1,4,1,0,180,1,R,Reliever
+John,Wetteland,John Wetteland,2001,BS,447,Rangers,1,2,5,5,5,1,2,0,0,40,1,R,Closer
+Kelvim,Escobar,Kelvim Escobar,2001,BS,451,Blue Jays,2,3,5,5,4,1,1,1,0,340,7,R,Starter
+Mark,Guthrie,Mark Guthrie,2001,BS,455,Blue Jays,3,3,5,5,3,1,3,0,0,140,1,L,Reliever
+Billy,Koch,Billy Koch,2001,BS,456,Blue Jays,5,3,4,6,3,0,3,1,0,250,1,R,Closer
+Esteban,Loaiza,Esteban Loaiza,2001,BS,457,Blue Jays,2,3,4,6,4,0,2,1,0,320,6,R,Starter
+Paul,Quantrill,Paul Quantrill,2001,BS,460,Blue Jays,2,3,3,7,4,0,2,1,0,100,1,R,Reliever
+David,Wells,David Wells,2001,BS,462,Blue Jays,5,2,4,5,4,0,4,1,0,460,7,L,Starter
+Dustin,Hermanson,Dustin Hermanson,2001,PR,2,Cardinals,1,3,2,7,5,1,1,1,0,190,6,R,Starter
+Jamie,Moyer,Jamie Moyer,2001,PR,3,Mariners,2,3,4,7,3,0,2,1,0,320,6,L,Starter
+Aaron,Fultz,Aaron Fultz,2001,PR,4,Giants,3,3,5,6,2,1,2,1,0,100,1,L,Reliever
+Barry,Zito,Barry Zito,2001,PR,5,Athletics,6,3,4,4,4,2,2,1,0,560,7,L,Starter
+C.C.,Sabathia,C.C. Sabathia,2001,PR,8,Indians,3,2,4,5,3,3,2,1,0,10,5,L,Starter
+Eddie,Guardado,Eddie Guardado,2001,PR,9,Twins,3,4,5,3,5,1,1,0,1,90,1,L,Reliever
+Matt,Kinney,Matt Kinney,2001,PR,10,Twins,3,2,4,5,4,3,1,1,0,190,6,R,Starter
+Blake,Stein,Blake Stein,2001,PR,11,Royals,1,4,4,5,4,2,1,0,0,200,6,R,Starter
+Billy,Wagner,Billy Wagner,2001,PR,12,Astros,4,3,7,3,3,2,1,1,0,160,1,L,Closer
+Chris,Holt,Chris Holt,2001,PR,13,Tigers,3,2,3,7,3,1,3,1,0,240,6,R,Starter
+Vladimir,Nunez,Vladimir Nunez,2001,PR,15,Marlins,3,3,4,5,3,2,2,1,0,70,2,R,Reliever
+C.J.,Nitkowski,C.J. Nitkowski,2001,PR,16,Tigers,1,2,5,7,3,1,2,0,0,60,1,L,Reliever
+Wade,Miller,Wade Miller,2001,PR,21,Astros,1,2,5,7,3,1,1,1,0,220,7,R,Starter
+Shawn,Estes,Shawn Estes,2001,PR,22,Giants,5,2,3,6,3,2,3,1,0,350,6,L,Starter
+Jason,Christansen,Jason Christansen,2001,PR,25,Cardinals,5,2,6,4,3,2,2,1,0,160,1,L,Reliever
+Paul,Shuey,Paul Shuey,2001,PR,26,Indians,3,2,6,6,3,2,1,0,0,200,1,R,Reliever
+Mark,Wohlers,Mark Wohlers,2001,PR,27,Reds,5,3,4,4,3,4,1,1,0,90,1,R,Reliever
+John,Riedling,John Riedling,2001,PR,28,Reds,4,2,5,5,3,2,2,1,0,100,1,R,Reliever
+Francisco,Cordova,Francisco Cordova,2001,PR,29,Pirates,1,3,4,7,3,1,1,1,0,190,6,R,Starter
+Craig,House,Craig House,2001,PR,30,Rockies,3,2,4,5,3,5,1,0,0,10,1,R,Reliever
+Scott,Strickland,Scott Strickland,2001,PR,31,Expos,5,2,6,5,3,1,2,1,0,220,1,R,Reliever
+Octavio,Dotel,Octavio Dotel,2001,PR,32,Astros,6,3,5,2,4,2,2,1,1,200,6,R,Starter
+Carl,Pavano,Carl Pavano,2001,PR,34,Expos,2,3,3,7,4,1,2,0,0,400,6,R,Starter
+Hideki,Irabu,Hideki Irabu,2001,PR,36,Expos,3,3,4,5,4,0,3,1,0,320,6,R,Starter
+Tom,Gordon,Tom Gordon,2001,PR,37,Cubs,6,1,6,6,3,1,2,1,0,300,1,R,Closer
+Rob,Bell,Rob Bell,2001,PR,41,Reds,6,2,4,4,4,2,2,1,1,190,5,R,Starter
+Jason,Schmidt,Jason Schmidt,2001,PR,42,Pirates,2,2,4,6,4,2,1,1,0,200,6,R,Starter
+Rod,Beck,Rod Beck,2001,PR,43,Red Sox,6,3,4,5,3,1,3,1,0,220,1,R,Reliever
+Paul,Rigdon,Paul Rigdon,2001,PR,44,Brewers,4,3,3,5,5,1,2,0,1,290,5,R,Starter
+Dan,Miceli,Dan Miceli,2001,PR,45,Marlins,4,3,4,5,4,1,3,0,0,200,1,R,Reliever
+Ricky,Bones,Ricky Bones,2001,PR,46,Marlins,2,2,4,7,4,0,3,0,0,140,1,R,Reliever
+Mike,Hampton,Mike Hampton,2001,PR,47,Rockies,5,2,3,7,2,2,3,1,0,390,7,L,Starter
+Cliff,Politte,Cliff Politte,2001,PR,48,Phillies,1,3,5,5,4,2,1,0,0,130,5,R,Starter
+Ramiro,Mendoza,Ramiro Mendoza,2001,PR,50,Yankees,4,2,3,7,4,0,3,1,0,290,2,R,Reliever
+Mark,Guthrie,Mark Guthrie,2001,PR,53,Athletics,3,3,5,5,3,1,3,0,0,140,1,L,Reliever
+Tony,Armas Jr.,Tony Armas Jr.,2001,PR,54,Expos,4,3,3,6,4,2,1,1,0,450,6,R,Starter
+Juan,Guzman,Juan Guzman,2001,PR,58,Devil Rays,4,4,4,5,3,1,2,0,1,360,7,R,Starter
+Alan,Embree,Alan Embree,2001,PR,62,Giants,3,3,5,3,5,1,2,1,0,80,1,L,Reliever
+Jon,Garland,Jon Garland,2001,PR,63,White Sox,2,8,3,4,2,1,1,1,0,270,6,R,Starter
+Ryan,Kohlmeier,Ryan Kohlmeier,2001,PR,64,Orioles,4,2,4,5,4,2,2,1,0,120,1,R,Closer
+Andy,Benes,Andy Benes,2001,PR,65,Cardinals,3,2,4,5,5,1,1,1,1,160,6,R,Starter
+Odalis,Perez,Odalis Perez,2001,PR,68,Braves,3,2,5,6,2,2,2,1,0,150,5,L,Starter
+Lance,Painter,Lance Painter,2001,PR,69,Blue Jays,3,3,4,6,3,1,2,1,0,110,1,L,Reliever
+Jeff,Zimmerman,Jeff Zimmerman,2001,PR,72,Rangers,1,3,6,3,5,1,2,0,0,10,1,R,Reliever
+Dennys,Reyes,Dennys Reyes,2001,PR,73,Reds,3,2,5,5,3,3,2,0,0,70,1,L,Reliever
+Jamey,Wright,Jamey Wright,2001,PR,74,Brewers,3,2,3,7,3,3,2,0,0,350,7,R,Starter
+Geraldo,Guzman,Geraldo Guzman,2001,PR,76,Diamondbacks,4,3,4,4,4,2,2,1,0,270,5,R,Starter
+Eric,Gagne,Eric Gagne,2001,PR,77,Dodgers,3,3,5,4,4,2,1,0,1,150,5,R,Starter
+Bruce,Chen,Bruce Chen,2001,PR,78,Phillies,2,4,5,3,5,1,1,1,0,300,7,L,Starter
+Justin,Speier,Justin Speier,2001,PR,79,Indians,3,3,6,3,5,1,1,1,0,140,1,R,Reliever
+Randy,Keisler,Randy Keisler,2001,PR,80,Yankees,3,3,3,5,4,2,2,1,0,210,6,L,Starter
+Jeff,Nelson,Jeff Nelson,2001,PR,83,Mariners,6,2,6,4,3,3,1,1,0,220,1,R,Reliever
+Freddy,Garcia,Freddy Garcia,2001,PR,85,Mariners,3,3,4,6,3,2,1,1,0,330,6,R,Starter
+Ben,Sheets,Ben Sheets,2001,PR,87,Brewers,5,3,3,5,3,2,3,1,0,290,5,R,Starter
+Paul,Wilson,Paul Wilson,2001,PR,89,Devil Rays,3,3,3,6,4,1,2,1,0,280,5,R,Starter
+Onan,Masaoka,Onan Masaoka,2001,PR,90,Dodgers,2,6,4,4,2,4,0,0,0,60,1,L,Reliever
+Jose,Rosado,Jose Rosado,2001,PR,91,Royals,4,3,4,5,4,1,2,1,0,440,6,L,Starter
+A.,J. Burnett,A. J. Burnett,2001,PR,92,Marlins,2,3,4,6,3,2,1,1,0,190,6,R,Starter
+Mike,Fetters,Mike Fetters,2001,PR,94,Dodgers,4,1,5,8,2,2,2,0,0,230,1,R,Reliever
+John,Franco,John Franco,2001,PR,96,Mets,3,2,6,7,2,1,2,0,0,200,1,L,Reliever
+Armando,Reynoso,Armando Reynoso,2001,PR,97,Diamondbacks,2,3,3,6,5,0,2,1,0,310,6,R,Starter
+Lou,Pote,Lou Pote,2001,PR,98,Angels,3,2,5,7,3,0,3,0,0,200,1,R,Reliever
+Brett,Tomko,Brett Tomko,2001,PR,103,Mariners,2,3,4,6,4,1,1,1,0,170,2,R,Reliever
+Andy,Ashby,Andy Ashby,2001,PR,107,Dodgers,2,2,3,8,4,0,2,1,0,340,6,R,Starter
+Julian,Tavarez,Julian Tavarez,2001,PR,111,Cubs,6,2,2,8,2,2,3,1,0,500,7,R,Starter
+Joey,Hamilton,Joey Hamilton,2001,PR,112,Blue Jays,3,4,2,6,4,1,2,1,0,280,5,R,Starter
+Mike,Stanton,Mike Stanton,2001,PR,116,Yankees,4,3,6,4,3,1,2,1,0,160,1,L,Reliever
+Ray,King,Ray King,2001,PR,117,Brewers,3,3,4,7,3,2,1,0,0,210,1,L,Reliever
+Matt,Morris,Matt Morris,2001,PR,120,Cardinals,5,3,3,6,3,1,3,1,0,410,5,R,Starter
+Kevin,Appier,Kevin Appier,2001,PR,121,Mets,3,4,4,5,3,1,2,1,0,330,6,R,Starter
+Frank,Castillo,Frank Castillo,2001,PR,122,Red Sox,3,4,5,4,4,1,1,1,0,420,6,R,Starter
+John,Smoltz,John Smoltz,2001,PR,125,Braves,3,2,5,6,4,0,2,1,0,440,6,R,Starter
+Ben,Weber,Ben Weber,2001,PR,126,Angels,2,3,4,6,4,0,2,1,0,100,1,R,Reliever
+Travis,Harper,Travis Harper,2001,PR,128,Devil Rays,4,8,2,3,2,1,3,1,0,300,6,R,Starter
+Ugueth,Urbina,Ugueth Urbina,2001,PR,133,Expos,4,3,8,3,3,1,2,0,0,270,1,R,Closer
+Steve,Kline,Steve Kline,2001,PR,134,Cardinals,4,2,4,6,3,1,3,1,0,110,1,L,Reliever
+Tanyon,Sturtze,Tanyon Sturtze,2001,PR,135,Devil Rays,4,3,3,6,3,2,2,1,0,190,2,R,Reliever
+Tomokazu,Ohka,Tomokazu Ohka,2001,PR,137,Red Sox,2,4,3,6,4,0,2,1,0,320,6,R,Starter
+Kip,Wells,Kip Wells,2001,PR,139,White Sox,4,2,4,5,3,2,3,1,0,160,5,R,Starter
+Shane,Reynolds,Shane Reynolds,2001,PR,146,Astros,1,2,4,8,3,0,2,1,0,190,6,R,Starter
+Jay,Powell,Jay Powell,2001,PR,150,Astros,4,2,4,5,4,2,2,1,0,110,1,R,Reliever
+Travis,Miller,Travis Miller,2001,PR,152,Twins,4,2,5,5,3,1,3,1,0,100,1,L,Reliever
+Nelson,Cruz,Nelson Cruz,2001,PR,154,Astros,1,3,4,6,4,1,1,0,1,10,1,R,Reliever
+David,Wells,David Wells,2001,PR,164,White Sox,5,3,4,5,3,0,4,1,0,460,7,L,Starter
+Hideo,Nomo,Hideo Nomo,2001,PR,167,Red Sox,4,2,6,4,3,2,2,0,1,190,6,R,Starter
+Ramon,Ortiz,Ramon Ortiz,2001,PR,170,Angels,1,3,4,7,3,2,1,0,0,250,6,R,Starter
+Mike,Holtz,Mike Holtz,2001,PR,171,Angels,4,2,5,5,3,2,3,0,0,150,1,L,Reliever
+Mike,Mussina,Mike Mussina,2001,PR,173,Yankees,3,1,6,7,3,0,2,1,0,470,7,R,Starter

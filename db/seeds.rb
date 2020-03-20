@@ -39,3 +39,33 @@ csv.each do |row|
 end
 
 puts "There are now #{Batter.count} rows in the batters table"
+
+
+csv_text_one = File.read(Rails.root.join('lib', 'seeds', 'pitcher_data.csv'))
+csv_one = CSV.parse(csv_text_one.scrub, :headers => true)
+csv_one.each do |row|
+  t = Pitcher.new
+  t.first_name = row['first_name']
+  t.last_name = row['last_name']
+  t.full_name = row['full_name']
+  t.year_id = row['year_id']
+  t.set_id = row['set_id']
+  t.card_number = row['card_number']
+  t.team = row['team']
+  t.control = row['control']
+  t.strikeout = row['strikeout']
+  t.groundball = row['groundball']
+  t.flyball = row['flyball']
+  t.base_on_balls = row['base_on_balls']
+  t.single = row['single']
+  t.double = row['double']
+  t.triple = row['triple']
+  t.homerun = row['homerun']
+  t.points = row['points']
+  t.innings_pitched = row['innings_pitched']
+  t.hand = row['hand']
+  t.position = row['position']
+  t.save
+end
+
+puts "There are now #{Pitcher.count} rows in the pitchers table"
