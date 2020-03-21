@@ -1,0 +1,2 @@
+class Ballplayer < ApplicationRecord
+end
