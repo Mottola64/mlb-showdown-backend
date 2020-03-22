@@ -2,7 +2,7 @@ class Api::V1::PitchersController < ApplicationController
 
     def index
         @pitchers = Pitcher.all
-        render json: @pitchers
+        render json: PitcherSerializer.new(@pitchers)
     end
 
     def show
@@ -14,7 +14,7 @@ class Api::V1::PitchersController < ApplicationController
         user = User.first
         @pitcher = user.pitchers.new(pitcher_params)
         if @pitcher.save
-            render json: @pitcher
+            render json: PitcherSerializer.new(@pitcher)
         else
             render json: {error: 'Error Creating Pitcher'}
         end
@@ -22,7 +22,7 @@ class Api::V1::PitchersController < ApplicationController
 
     def update
         if @pitcher.update(pitcher_params)
-            render json: @pitcher
+            render json: PitcherSerializer.new(@pitcher)
         else
             render json: {error: 'Error Updating Pitcher'}
         end

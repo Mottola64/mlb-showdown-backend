@@ -1,9 +1,8 @@
 class Api::V1::BattersController < ApplicationController
 
     def index
-        
         @batters = Batter.all
-        render json: @batters
+        render json: BatterSerializer.new(@batters)
     end
 
     def show
@@ -14,7 +13,7 @@ class Api::V1::BattersController < ApplicationController
     def create
         @batter = batters.new(batter_params)
         if @batter.save
-            render json: @batter
+            render json: BatterSerializer.new(@batter), status: :created
         else
             render json: {error: 'Error Creating Batter'}
         end
@@ -22,7 +21,7 @@ class Api::V1::BattersController < ApplicationController
 
     def update
         if @batter.update(batter_params)
-            render json: @batter
+            render json: BatterSerializer.new(@batter)
         else
             render json: {error: 'Error Updating Batter'}
         end

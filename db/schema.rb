@@ -52,7 +52,8 @@ ActiveRecord::Schema.define(version: 2020_03_20_100337) do
     t.string "timestamps"
   end
 
-  create_table "my_teams", force: :cascade do |t|
+  create_table "decks", force: :cascade do |t|
+    t.string "name"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
   end
@@ -66,6 +67,7 @@ ActiveRecord::Schema.define(version: 2020_03_20_100337) do
     t.integer "card_number"
     t.string "team"
     t.integer "control"
+    t.integer "put_out"
     t.integer "strikeout"
     t.integer "groundball"
     t.integer "flyball"
@@ -82,6 +84,9 @@ ActiveRecord::Schema.define(version: 2020_03_20_100337) do
   end
 
   create_table "users", force: :cascade do |t|
+    t.string "name"
+    t.string "email"
+    t.string "password_digest"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
   end

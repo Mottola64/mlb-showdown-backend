@@ -1,3 +1,5 @@
-class UserSerializer < ActiveModel::Serializer
-  attributes :id
+class UserSerializer
+  include FastJsonapi::ObjectSerializer
+  attributes :name, :email
+  # has_many :decks, serializer: DeckSerializer
 end

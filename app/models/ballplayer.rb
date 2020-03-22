@@ -1,2 +1,0 @@
-class Ballplayer < ApplicationRecord
-end

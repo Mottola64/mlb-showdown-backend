@@ -9,6 +9,7 @@ class CreatePitchers < ActiveRecord::Migration[6.0]
       t.integer :card_number
       t.string :team
       t.integer :control
+      t.integer :put_out
       t.integer :strikeout
       t.integer :groundball
       t.integer :flyball

@@ -1,5 +1,7 @@
 require 'csv'
 
+user = User.create(name: "Mike", email: "mike@m.com", password:"testing", password_confirmation:"testing")
+
 csv_text = File.read(Rails.root.join('lib', 'seeds', 'batter_data.csv'))
 csv = CSV.parse(csv_text.scrub, :headers => true)
 csv.each do |row|
