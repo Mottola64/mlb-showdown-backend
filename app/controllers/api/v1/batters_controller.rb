@@ -1,8 +1,10 @@
 class Api::V1::BattersController < ApplicationController
 
     def index
-        @batters = Batter.all
-        render json: BatterSerializer.new(@batters)
+        batters = Batter.all
+        
+        render json: BatterSerializer.new(batters)
+        
     end
 
     def show
