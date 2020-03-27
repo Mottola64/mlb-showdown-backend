@@ -10,12 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2020_03_20_100337) do
-
-  create_table "ballplayers", force: :cascade do |t|
-    t.datetime "created_at", precision: 6, null: false
-    t.datetime "updated_at", precision: 6, null: false
-  end
+ActiveRecord::Schema.define(version: 2020_03_25_205923) do
 
   create_table "batters", force: :cascade do |t|
     t.string "first_name"
@@ -52,10 +47,24 @@ ActiveRecord::Schema.define(version: 2020_03_20_100337) do
     t.string "timestamps"
   end
 
+  create_table "batters_decks", id: false, force: :cascade do |t|
+    t.integer "batter_id", null: false
+    t.integer "deck_id", null: false
+    t.index ["batter_id", "deck_id"], name: "index_batters_decks_on_batter_id_and_deck_id"
+    t.index ["deck_id", "batter_id"], name: "index_batters_decks_on_deck_id_and_batter_id"
+  end
+
   create_table "decks", force: :cascade do |t|
     t.string "name"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
+  end
+
+  create_table "decks_pitchers", id: false, force: :cascade do |t|
+    t.integer "deck_id", null: false
+    t.integer "pitcher_id", null: false
+    t.index ["deck_id", "pitcher_id"], name: "index_decks_pitchers_on_deck_id_and_pitcher_id"
+    t.index ["pitcher_id", "deck_id"], name: "index_decks_pitchers_on_pitcher_id_and_deck_id"
   end
 
   create_table "pitchers", force: :cascade do |t|
