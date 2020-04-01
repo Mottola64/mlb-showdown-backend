@@ -1,7 +1,7 @@
 class Api::V1::DecksController < ApplicationController
     def index
         decks = Deck.all
-        render json: DeckSerializer.new(decks)
+        render json: decks, include: [:batters, :pitchers]
     end
 
     def show
@@ -10,9 +10,10 @@ class Api::V1::DecksController < ApplicationController
     end
 
     def create
-        @deck = decks.new(deck_params)
+        @deck = Deck.new(deck_params)
+        binding.pry
         if @deck.save
-            render json: DeckSerializer.new(@deck), status: :created
+            render json: @deck, include: [:batters, :pitchers], status: :created
         else
             render json: {error: 'Error Creating Deck'}
         end
@@ -34,7 +35,6 @@ class Api::V1::DecksController < ApplicationController
     private
 
     def deck_params
-        params.require(:deck).permit(:name)
+        params.require(:deck).permit(:name, :batter_ids => [], :pitcher_ids => [])
     end
-end
 end
