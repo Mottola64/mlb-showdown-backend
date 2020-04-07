@@ -11,7 +11,7 @@ class Api::V1::DecksController < ApplicationController
 
     def create
         @deck = Deck.new(deck_params)
-        binding.pry
+        
         if @deck.save
             render json: @deck, include: [:batters, :pitchers], status: :created
         else
